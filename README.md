@@ -4,6 +4,7 @@ $\color{#FF7D00}{I’m}$
 $\color{#FF7D00}{Le }$
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&theme=tokyonight)
 
 
 
