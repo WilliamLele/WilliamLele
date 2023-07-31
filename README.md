@@ -1,5 +1,5 @@
 
-<img src="https://github.com/WilliamLele/WilliamLele/blob/main/background.png" alt="Image" style="height: 400px; width: 1100px;">
+<img src="https://github.com/WilliamLele/WilliamLele/blob/main/background.png" alt="Image" style="height: 200px; width: 1100px;">
 
 
 ## Hi, Welcome!<br>
