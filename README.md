@@ -2,18 +2,12 @@
 <img src="https://github.com/WilliamLele/WilliamLele/blob/main/background.png" alt="Image" style="height: 200px; width: 1100px;">
 
 
-## Hi, Welcome!
+## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to my GitHub profile! 
 <br>
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
-  $\color{#FF7D00}{I’m}$
-  $\color{#FF7D00}{Le }$ 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-  
 </p>
 <br> 
 
