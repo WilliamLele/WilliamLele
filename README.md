@@ -21,8 +21,12 @@
 #### :sunny: My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,html,css,r,&theme=light)](https://skills.thijs.gg)
 
+<!---
+![](https://github-readme-stats.vercel.app/api?username=WilliamLele&show_icons=true&theme=transparent)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&theme=tokyonight)
+--->
 
 
 <!---
