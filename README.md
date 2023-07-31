@@ -24,7 +24,7 @@
 
 
   
-### :sunny: My Skills 
+### :sunny: My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,html,css,r,&theme=light)](https://skills.thijs.gg)
 
 
