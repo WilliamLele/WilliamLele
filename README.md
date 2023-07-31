@@ -2,13 +2,27 @@
 <img src="https://github.com/WilliamLele/WilliamLele/blob/main/background.png" alt="Image" style="height: 200px; width: 1100px;">
 
 
-## Hi, Welcome!<br>
-👋
-$\color{#FF7D00}{I’m}$
-$\color{#FF7D00}{Le }$
+## Hi, Welcome!
 <br>
+<p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&theme=tokyonight)
+  $\color{#FF7D00}{I’m}$
+  $\color{#FF7D00}{Le }$ 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  
+</p>
+<br> 
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewangjobs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewangjobs/)
+
+### My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,py,html,css,r,&theme=light)](https://skills.thijs.gg)
+
+
 
 
 
