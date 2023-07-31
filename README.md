@@ -1,4 +1,5 @@
-![Image text](https://github.com/WilliamLele/WilliamLele/blob/main/background.png)
+
+<img src="https://github.com/WilliamLele/WilliamLele/blob/main/background.png" alt="Image" style="height: 400px; width: 1100px;">
 
 
 ## Hi, Welcome!<br>
