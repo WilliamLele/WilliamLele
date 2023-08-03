@@ -6,11 +6,9 @@
 
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to my GitHub profile! 
 <br>
-<p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-</p>
 <br> 
 
 #### :zap: Contact information
