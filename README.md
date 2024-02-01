@@ -1,6 +1,6 @@
  
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/WilliamLele/WilliamLele/blob/main/GIF.jpeg" alt="Image" style="height: 400px; width: 800px;">
+  <img src="https://github.com/WilliamLele/WilliamLele/blob/main/background" alt="Image" style="height: 400px; width: 800px;">
 </div>
 
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to my GitHub profile! 
