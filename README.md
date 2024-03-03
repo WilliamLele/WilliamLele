@@ -1,6 +1,6 @@
  
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/WilliamLele/WilliamLele/blob/main/An_illustration_of_a_future_programmer_with_bright_blue_eyes_in_the_style_of_abstract_expressionism__2835892619.png" alt="Image" style="height: 400px; width: 820px;">
+  <img src="https://github.com/WilliamLele/WilliamLele/blob/main/Github_homePageImage.png" alt="Image" style="height: 400px; width: 820px;">
 </div>
 
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to my GitHub profile! 
