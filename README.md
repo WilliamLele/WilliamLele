@@ -18,7 +18,13 @@
 
 #### :sunny: My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r,&theme=light)](https://skills.thijs.gg)
+<br>
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
+[![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2021.2-blue.svg)](https://www.jetbrains.com/idea/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
+
+
 
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=WilliamLele&show_icons=true&theme=transparent)
