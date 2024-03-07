@@ -18,10 +18,11 @@
 
 #### :sunny: My Skills
 ### Languages
+### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)
-<div align="right">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
+
+
 ### Tools
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
 [![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
