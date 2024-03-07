@@ -29,7 +29,9 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
-
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact" />
+</div>
 
 
 <!---
