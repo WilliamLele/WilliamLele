@@ -26,7 +26,9 @@
 <br>
 
 ![William's github activity graph](https://activity-graph.herokuapp.com/graph?username=WilliamLele&theme=dracula)
-
+<div align="center">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=WilliamLele&theme=minimal" />
+</div>
 
 
 
