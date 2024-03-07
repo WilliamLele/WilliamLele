@@ -17,7 +17,7 @@
 
 
 #### :sunny: My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r,sql&theme=light)](https://skills.thijs.gg)  
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)  
 <br>
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
 [![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
