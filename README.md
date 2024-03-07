@@ -30,7 +30,7 @@
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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" />
 </div>
 
 
