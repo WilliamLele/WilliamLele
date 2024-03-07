@@ -19,7 +19,6 @@
 #### :sunny: My Skills
 ### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)  
-<br>
 ### Tools
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
 [![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
@@ -27,11 +26,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![SVN](https://img.shields.io/badge/SVN-809CC9?logo=subversion&logoColor=white)](https://subversion.apache.org/)
-<br>
 ### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+<br>
 <div align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
 </div>
