@@ -18,7 +18,7 @@
 
 ### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=700" />
 
 
 ### Tools
