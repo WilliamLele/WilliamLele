@@ -10,13 +10,11 @@
   
 <br> 
 
-#### :zap: Contact information
+### :zap: Contact information
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewangjobs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewangjobs/)     
 
 <br><br>
-
-#### :sunny: My Skills
 
 ### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)
