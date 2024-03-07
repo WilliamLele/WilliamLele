@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewangjobs/)     
 
 
-
+<br>
 #### :sunny: My Skills
 ## Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)  
@@ -28,7 +28,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![SVN](https://img.shields.io/badge/SVN-809CC9?logo=subversion&logoColor=white)](https://subversion.apache.org/)
 <br>
-## Operating Systems
+### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
