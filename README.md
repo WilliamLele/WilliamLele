@@ -24,6 +24,8 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2021.2-blue.svg)](https://www.jetbrains.com/idea/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![SVN](https://img.shields.io/badge/SVN-809CC9?logo=subversion&logoColor=white)](https://subversion.apache.org/)
+
 <br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
