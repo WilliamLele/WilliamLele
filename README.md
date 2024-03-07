@@ -6,7 +6,7 @@
 ## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to my GitHub profile! 
 <br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 <br> 
 
@@ -14,13 +14,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewangjobs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewangjobs/)     
 
-<br>
+<br><br>
 
 #### :sunny: My Skills
-## Languages
+### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)  
 <br>
-## Tools
+### Tools
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
 [![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2021.2-blue.svg)](https://www.jetbrains.com/idea/)
