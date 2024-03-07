@@ -18,7 +18,10 @@
 
 #### :sunny: My Skills
 ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)  
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,py,swift,html,css,r&theme=light)](https://skills.thijs.gg)
+<div align="right">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
+</div>
 ### Tools
 [![Xcode](https://img.shields.io/badge/Xcode-12.0-blue.svg)](https://developer.apple.com/xcode/)
 [![VSCode](https://img.shields.io/badge/VSCode-1.60.0-blue.svg)](https://code.visualstudio.com/)
@@ -31,9 +34,7 @@
 [![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 <br>
-<div align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamLele&layout=compact&token=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&width=400" />
-</div>
+
 
 
 <!---
